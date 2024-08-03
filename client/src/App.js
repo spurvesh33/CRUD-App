@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import SimpleCard from "./components/SimpleCard"
+import SimpleCard from "./components/SimpleCard";
 
 
 
