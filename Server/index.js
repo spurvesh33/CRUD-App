@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use("/api", studentRouter);
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
-});
+})
 
 
 
